@@ -22,7 +22,7 @@ Hi <picture>
 <h3 align="center">The technologies I use 👨🏻‍💻</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,postgresql,redis,docker,postman,kafka,mongodb&perline=8&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,postgresql,redis,docker,postman,kafka,mongodb,rust&perline=8&theme=dark" />
 </p>
 
 <!-- GitHub stats widgets -->

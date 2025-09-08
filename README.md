@@ -38,11 +38,12 @@ Hi <picture>
 
 <hr>
 
-<h3 align="center">A little about my approach</h3>
+<h3 align="center">💡 A little about my approach</h3>
 
 <p align="center">
-I believe good backend development is the backbone of any successful application. Writing scalable, maintainable, and well-documented code is my top priority. I enjoy working with RESTful APIs, databases, and optimizing server-side logic.<br><br>
-I’m always open to new challenges and collaborations, so don’t hesitate to get in touch!
+👨‍💻 I’m a backend developer who enjoys building clear and reliable systems.  
+🐍 Mostly working with <b>Python + FastAPI</b>, exploring <b>Rust</b> ⚙️ for performance-critical parts.  
+✨ Love clean code, good architecture, and making things that actually work 🚀  
 </p>
 
 <hr>

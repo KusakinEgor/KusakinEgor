@@ -22,11 +22,17 @@ Hi <picture>
 <h3 align="center">The technologies I use 👨🏻‍💻</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,rust,fastapi,postgresql,redis,docker,postman,kafka,mongodb&perline=8&theme=dark" />
+  <!-- Основной стек -->
+  <img src="https://skillicons.dev/icons?i=python,fastapi,postgresql,redis,docker,postman,kafka,mongodb&perline=8&theme=dark" />
 </p>
 
-<!-- GitHub stats widgets -->
 <p align="center">
+  <!-- Rust и его экосистема -->
+  <img src="https://skillicons.dev/icons?i=rust,actix,rocket&perline=8&theme=dark" />
+</p>
+
+<p align="center">
+  <!-- GitHub stats widgets -->
   <img src="https://github-readme-stats.vercel.app/api?username=KusakinEgor&show_icons=true&theme=rose" />
 </p>
 

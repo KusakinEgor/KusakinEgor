@@ -15,7 +15,7 @@ Hi <picture>
 - 👨‍💻 I'm a Backend Developer passionate about writing clean, efficient code<br>
 - 🌱 Currently diving deep into Web Development with FastAPI and expanding my skillset<br>
 - 🔭 Building my skills in backend development with a focus on clean and efficient code development<br>
-- 📫 Feel free to reach out to me <a href="https://t.me/iloveg1t">[@iloveg1t]</a> or via email <a href="mailto:egorkusakin141@gmail.com">egorkusakin141@gmail.com</a><br>
+- 📫 Feel free to reach out to me <a href="https://t.me/PACT_HOPM">[@PACT_HOPM]</a> or via email <a href="mailto:egorkusakin141@gmail.com">egorkusakin141@gmail.com</a><br>
 - ⚡ Always eager to learn, grow, and contribute to interesting projects  
 </p>
 

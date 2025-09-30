@@ -23,7 +23,7 @@ Hi <picture>
 
 <p align="center">
   <!-- Основной стек -->
-  <img src="https://skillicons.dev/icons?i=python,fastapi,postgresql,redis,docker,postman,kafka,mongodb&perline=8&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,postgresql,redis,docker,postman,rabbitmq,mongodb&perline=8&theme=dark" />
 </p>
 
 <p align="center">

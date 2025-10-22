@@ -35,15 +35,3 @@ Hi <picture>
   <!-- GitHub stats widgets -->
   <img src="https://github-readme-stats.vercel.app/api?username=KusakinEgor&show_icons=true&theme=rose" />
 </p>
-
-<hr>
-
-<h3 align="center">💡 A little about my approach</h3>
-
-<p align="center">
-👨‍💻 I’m a backend developer who enjoys building clear and reliable systems.  
-🐍 Mostly working with <b>Python + FastAPI</b>, exploring <b>Rust</b> ⚙️ for performance-critical parts.  
-✨ Love clean code, good architecture, and making things that actually work 🚀  
-</p>
-
-<hr>

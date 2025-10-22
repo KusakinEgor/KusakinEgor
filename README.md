@@ -23,12 +23,12 @@ Hi <picture>
 
 <p align="center">
   <!-- Основной стек -->
-  <img src="https://skillicons.dev/icons?i=python,fastapi,postgresql,redis,docker,postman,rabbitmq,mongodb&perline=8&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,postgresql,redis,docker,postman,rabbitmq&perline=4&theme=dark" />
 </p>
 
 <p align="center">
   <!-- Rust и его экосистема -->
-  <img src="https://skillicons.dev/icons?i=rust,actix,rocket&perline=8&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=rust,actix,rocket,mongodb&perline=8&theme=dark" />
 </p>
 
 <p align="center">

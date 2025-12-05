@@ -8,7 +8,7 @@
     </td>
     <td>
       <img 
-        src="https://leetcard.jacoblin.cool/KusakinEgor?border=0&radius=10&ext=heatmap&bg_color=1B5E20&text_color=C8FF66&title_color=E0FF80" 
+        src="https://leetcard.jacoblin.cool/KusakinEgor?border=0&radius=10&bg_color=1B5E20&text_color=C8FF66&title_color=E0FF80"
         height="200"
       />
     </td>

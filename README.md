@@ -2,7 +2,7 @@
   <tr>
     <td>
       <img 
-        src="https://github-readme-stats.zcy.dev/api?username=KusakinEgor&show_icons=true&hide_title=false&hide_rank=false&hide_border=false&count_private=true&bg_color=FFFAF0,006400,228B22&title_color=FFD700&text_color=FFFFFF&icon_color=FF4500&border_color=8B0000"
+        src="https://github-readme-stats.zcy.dev/api?username=KusakinEgor&show_icons=true&hide_title=false&hide_rank=false&hide_border=false&count_private=true&bg_color=FF0000,00FF00,FFD700&title_color=FFFFFF&text_color=FFFFFF&icon_color=00FFFF&border_color=FFFFFF"
         height="200"
       />
     </td>
